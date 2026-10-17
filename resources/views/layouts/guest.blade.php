@@ -290,7 +290,7 @@
                                 <h4 class="title">Contact</h4>
                                 <div class="text">
                                     <a href="mailto:support@springcourierhub.com">Support@springcourierhub.com</a>
-                                    <a href="tel:+17069365099">+1 (160) 159-67928</a>
+                                    <a href="tel:+16015957928">+1 (160) 159-57928</a>
                                 </div>
                             </div>
                         </div>
