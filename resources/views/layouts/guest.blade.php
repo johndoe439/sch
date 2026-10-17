@@ -168,7 +168,7 @@
                             <div class="contact-info-box">
                                 <i class="icon lnr-icon-phone-handset"></i>
                                 <span class="title">Call Now</span>
-                                <a href="tel:+17069365099">+1 (706) 936-5099</a>
+                                <a href="tel:+17069365099">+1 (160) 1595 7928</a>
                             </div>
                         </li>
                         <li>
