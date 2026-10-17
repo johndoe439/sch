@@ -41,7 +41,7 @@
                                     </div>
                                     <div class="text">
                                         <h6>Have any question?</h6>
-                                        <a href="tel:+17069365099"><span>Free</span>+1 (706) 936-5099</a>
+                                        <a href="tel:+16015957928"><span>Free</span>+1 (160) 1595-7928</a>
                                     </div>
                                 </li>
                                 <li>
