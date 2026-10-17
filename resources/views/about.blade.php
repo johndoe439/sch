@@ -67,7 +67,7 @@
                             </div>
 
                             <div class="btm-box">
-                                <a href="services.html" class="theme-btn btn-style-one"><span class="btn-title">Explore
+                                <a href="#" class="theme-btn btn-style-one"><span class="btn-title">Explore
                                         More</span></a>
                             </div>
                         </div>
