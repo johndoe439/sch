@@ -41,7 +41,7 @@
                                     </div>
                                     <div class="text">
                                         <h6>Have any question?</h6>
-                                        <a href="tel:+14433472146"><span>Free</span>+14433472146</a>
+                                        <a href="tel:+17069365099"><span>Free</span>+1 (706) 936-5099</a>
                                     </div>
                                 </li>
                                 <li>
@@ -51,7 +51,7 @@
                                     <div class="text">
                                         <h6>Write email</h6>
                                         <a
-                                            href="mailto:support@planlogicssolutions.com">support@planlogicssolutions.com</a>
+                                            href="mailto:support@springcourierhub.com">support@springcourierhub.com</a>
                                     </div>
                                 </li>
                                 <li>
