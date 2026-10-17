@@ -252,8 +252,8 @@
                                 <div class="about-block">
                                     <i class="icon flaticon-worldwide-shipping"></i>
                                     <h4 class="title">Worldwide services</h4>
-                                    <p class="text">We always provide our clients with comprehensive solutions
-                                        tailored to meet any business requirement.</p>
+                                    <p class="text">We  provide our clients with  solutions
+                                         to meet any  requirement.</p>
                                 </div>
 
                                 <div class="about-block">
@@ -265,7 +265,7 @@
                             </div>
 
                             <div class="btm-box">
-                                <a href="page-about.html" class="theme-btn btn-style-one"><span
+                                <a href="#" class="theme-btn btn-style-one"><span
                                         class="btn-title">Explore More</span></a>
                             </div>
                         </div>
