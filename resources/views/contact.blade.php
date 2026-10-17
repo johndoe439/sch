@@ -72,7 +72,7 @@
                             <h2>Feel free to write</h2>
                         </div>
                         <!-- Contact Form -->
-                        <form id="contact_form" name="contact_form" class="" method="post">
+                        <form id="contact_form" name="contact_form" class="" method="#">
                             <div class="row">
                                 <div class="col-sm-6">
                                     <div class="mb-3">
@@ -110,8 +110,8 @@
                                 <textarea name="form_message" class="form-control required" rows="5" placeholder="Enter Message"></textarea>
                             </div>
                             <div class="mb-3">
-                                <input name="form_botcheck" class="form-control" type="hidden" value="" />
-                                <button type="submit" class="theme-btn btn-style-one"
+                               
+                                <button  class="theme-btn btn-style-one"
                                     data-loading-text="Please wait..."><span class="btn-title">Send
                                         message</span></button>
                                 <button type="reset" class="theme-btn btn-style-one"><span
