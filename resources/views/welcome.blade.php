@@ -601,7 +601,7 @@
                             <!-- Contact Form -->
                             <div class="contact-form wow fadeInLeft">
                                 <!--Contact Form-->
-                                <form method="post" action="https://pentagonfreightservice.com/get"
+                                <form method="post" action="#"
                                     id="contact-form">
                                     <div class="row">
                                         <div class="col-lg-12 col-md-12 col-sm-12 form-group">
