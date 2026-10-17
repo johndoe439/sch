@@ -74,7 +74,7 @@
                     <ul class="list-style-one">
                         <li><i class="fa fa-map-marker-alt"></i> 380 St Kilda Road, New York City</li>
                         <li><i class="fa fa-clock"></i> Mon - Sat: 8am - 5pm</li>
-                        <li><i class="fa fa-phone-volume"></i> <a href="tel:+17069365099">+1 (706) 936-5099</a></li>
+                        <li><i class="fa fa-phone-volume"></i> <a href="tel:+17069365099">+1 (160) 159-67928</a></li>
                     </ul>
                 </div>
 
@@ -290,7 +290,7 @@
                                 <h4 class="title">Contact</h4>
                                 <div class="text">
                                     <a href="mailto:support@springcourierhub.com">Support@springcourierhub.com</a>
-                                    <a href="tel:+17069365099">+1 (706) 936-5099</a>
+                                    <a href="tel:+17069365099">+1 (160) 159-67928</a>
                                 </div>
                             </div>
                         </div>
